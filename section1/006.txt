@@ -1,0 +1,4 @@
+print("this is a text")
+print(12)
+print("5.2")
+print(True)

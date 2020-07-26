@@ -1,0 +1,4 @@
+print("start")
+print("medel")
+print("end")
+

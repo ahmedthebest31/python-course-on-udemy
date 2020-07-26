@@ -1,0 +1,8 @@
+""" this 
+isinstancea program to learn python 
+"""
+
+
+
+# print value to screen
+print("hello world")
