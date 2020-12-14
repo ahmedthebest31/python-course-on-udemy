@@ -1,0 +1,18 @@
+
+class Car:
+    def __init__(self, brand, weels, doors, hoursepower):
+        self.my_brand = brand
+        self.my_weels = weels
+        self.my_doors = doors
+        self.my_hoursepower = hoursepower
+
+    def getmycar():
+        print(
+            f"your car brans is {my_brand} and it has a {wmy_weels} weels with {my_doors} doors and has a {my_horsepower}, horsepower")
+
+
+audi = Car("audic420", 4, 2, 450)
+safira = Car("safira", 4, 4, 300)
+
+# print(audi.my_doors)
+# print(safira.my_doors)

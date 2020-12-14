@@ -1,0 +1,7 @@
+pip install pygame
+pip install /Upgrade pip
+pip --version
+pip3 --version
+
+pip install openpyxl
+pip uninstall openpyxl

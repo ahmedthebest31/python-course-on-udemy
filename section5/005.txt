@@ -1,0 +1,50 @@
+# A Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+
+person = {
+    "first_name": "ahmed",
+    "last_name": "samy",
+    "age": 31
+}
+person["first_name"]
+person.get("last_name")
+
+
+# constractor
+#person2 = dict(f_name="sara", l_name="wileam")
+
+
+# add
+person["phone"] = "12345678"
+
+
+# git keys
+person.keys()
+
+# git items
+person.items()
+
+# copy
+person3 = person.copy()
+person3["city"] = "cairo"
+
+
+del(person3["city"])
+
+
+person.pop("phone")
+
+
+person.clear()
+
+len(person3)
+
+
+
+# List of dict
+people = [
+    {'name': 'Martha', 'age': 30},
+    {'name': 'Kevin', 'age': 25}
+]
+
+print(people[1]['name'])
+

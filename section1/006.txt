@@ -1,4 +1,4 @@
-print("this is a text")
-print(12)
-print("5.2")
-print(True)
+name = input("please inter your name")
+age = input("your age")
+print("hi " + name)
+print("and your age is " + age)

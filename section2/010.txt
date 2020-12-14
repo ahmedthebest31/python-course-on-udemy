@@ -1,0 +1,20 @@
+"""
+this app made bu ahmed samy
+it's a semble calck
+
+"""
+
+
+# input the first number 
+n1 = (float)(input("first number: "))
+# input the secand number
+n2 = (float)(input("secand number: "))
+
+# print the
+
+print(n1 + n2)
+print(n1 - n2)
+print(n1 * n2)
+print(n1 / n2)
+
+

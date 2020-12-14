@@ -1,0 +1,8 @@
+name = "mohamed"
+
+if name == "ahmed":
+    print("true")
+elif name == "sara":
+    print("the name is sara")
+else:
+    print("false")

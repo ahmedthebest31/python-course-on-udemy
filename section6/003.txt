@@ -1,0 +1,39 @@
+# ==
+# >
+# <
+# >=
+# <=
+# !=
+
+x = 5
+y = 10
+
+# and
+# if x > 2 and x < 10:
+#     print("true")
+
+# or
+# if x > 2 or x >= 10:
+#     print("true")
+
+
+# not
+# if not(x == y):
+#     print("false")
+# in
+name = "ahmed"
+# if "h" in name:
+#     print("h on name")
+
+# not in
+# if "s" not in name:
+#     print("not in")
+
+
+# is
+if x is y:
+    print("true")
+
+# is not
+if x is not y:
+    print("x is not y")

@@ -1,0 +1,13 @@
+
+class Plueprent:
+    # vars
+    # functions
+    pass
+
+
+
+
+
+block1 = Plueprent()
+block1.name = "b1"
+block1.value = "4*4"

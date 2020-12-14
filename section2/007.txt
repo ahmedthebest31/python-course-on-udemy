@@ -1,0 +1,17 @@
+# x= 10
+# y = 20
+# print(x + y)
+# print(x - y)
+# print(x * y)
+# print(x / y)
+
+# nom1 = 10.6
+# nom2 = 30.26
+# print(nom1 + nom2)
+
+
+first_name = "ahmed"
+last_name = "samy"
+full_name = first_name + " " + last_name
+print(full_name)
+

@@ -1,0 +1,19 @@
+# noms = (1, 2, 3, 4, 5)
+# print(noms)
+# print(type(noms))
+# # constractor
+# # trail in comma
+# t1 = tuple("ahmed", )
+# print(t1)
+
+names = ("ahmed", "jermaine", "hossam")
+# print(names)
+# print(type(names))
+
+# get item
+# print(names[1])
+
+# print(len(names))
+
+# dleate
+# del names

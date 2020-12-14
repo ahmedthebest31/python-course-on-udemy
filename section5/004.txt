@@ -1,0 +1,11 @@
+
+
+def myfun():
+    print("hello world")
+
+myfun()
+print('HI PRO')
+type()
+len()
+del 
+

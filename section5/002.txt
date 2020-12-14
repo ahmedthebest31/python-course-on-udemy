@@ -1,0 +1,40 @@
+
+
+def say_hello(name):
+    print("hello: " + name)
+
+
+# say_hello("ahmed")
+# say_hello("sara")
+# say_hello("mohmood")
+
+def some(nom1, nom2):
+    print(nom1 + nom2)
+
+
+# some(12, 12)
+# some(31, 15)
+
+
+def square(n):
+    print(n * n)
+
+
+# square(4)
+
+
+# def send_mail(to, sub, message):
+#     print(f` sent mail to {to} the subgect is {sub} the message is {message}`)
+
+
+# send_mail("ahmedsamy2020@gmail.com", "about python course",
+#           "hi ahmed how are you today")
+
+
+def add_friend(*args):
+    print(args)
+    print(type(args))
+
+
+add_friend("ahmed", "mohamed", "noor", "jermaine", "said")
+

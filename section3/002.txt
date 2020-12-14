@@ -1,0 +1,8 @@
+name = "jermaine"
+age = 30
+# print("my name is ahmed i'm 27 years old")
+
+
+#print("my name is {my_name} i'm {my_age} years old".format(my_name=name, my_age=age))
+
+print(f"my name is {name} i'm {age} years old")

@@ -1,0 +1,28 @@
+names = ["ahmed", "jermaine"]
+noms = [5, 3, 4, 2, 1, 6]
+# # append
+# names.append("hossam")
+# # remove
+# names.remove("ahmed")
+
+# insert
+names.insert(0, "nasser")
+
+# change value
+names[2] = "abdo"
+
+# pop
+names.pop(2)
+
+
+# revarce
+names.reverse()
+
+
+# print(names)
+
+noms.sort()
+
+noms.sort(reverse=True)
+
+print(noms)

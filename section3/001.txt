@@ -1,0 +1,7 @@
+firsst_name = "ahmed"
+last_name = 'samy'
+
+# print(type(last_name))
+
+# print(firsst_name + " " + last_name)
+

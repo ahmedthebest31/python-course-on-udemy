@@ -1,0 +1,28 @@
+
+
+# for loob
+# for i in range(0, 11):
+#     print(i)
+
+names = ["ahmed", "jermaine", "sara", "ali"]
+
+# for i in range(len(names)):
+#     print(names[i])
+
+# print("loob has ended")
+
+
+
+# for person in names:
+#     print(person)
+
+# for person in names:
+#     print(person)
+#     if person == "jermaine":
+#         break
+
+for person in names:
+    if person == "jermaine":
+        continue
+    print(person)
+    

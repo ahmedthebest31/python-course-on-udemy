@@ -1,0 +1,10 @@
+
+
+def myfun(f_name, l_name, age):
+    print(f_name + l_name, age)
+
+
+#  mfun("ahmed", "samy", "31")
+# myfun(l_name="samy", f_name="ahmed", age="31")
+
+myfun(f_name="ahmed", "samy", age="31")

@@ -1,0 +1,17 @@
+# name = input("your name: ")
+# # print("hi " + name)
+
+# # nom1 = input("nom1 ")
+# # nom2 = input("nom2 ")
+# # print(nom1 + nom2)
+
+# # nom1 = (int)(input("nom1 "))
+# # nom2 = (int)(input("nom2 "))
+# # print(nom1 + nom2)
+
+# x= (int)(input("to int"))
+
+
+
+
+

@@ -1,2 +1,0 @@
-name = input("please inter your name")
-print("hi: " + name)
